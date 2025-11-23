@@ -1,0 +1,6 @@
+{
+  "name": "HA Influx Add-on aarch64",
+  "udev": true,
+  "url": "https://github.com/kbrelins/addon-influxdb/",
+  "maintainer": "kbrelins"
+}
