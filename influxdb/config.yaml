@@ -1,7 +1,7 @@
 ---
 name: InfluxDB
 version: dev
-slug: slug: influxdb_aarch64
+slug: influxdb_aarch64
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/hassio-addons/addon-influxdb
 codenotary: codenotary@frenck.dev
